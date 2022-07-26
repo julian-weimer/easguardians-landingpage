@@ -1,0 +1,13 @@
+session_name: easguardians-landingpage
+windows:
+  - window_name: home
+    panes:
+      - nnn
+      -
+  - window_name: background
+    panes:
+      - npm run dev
+      -
+  - window_name: editor
+    panes:
+      - kak
